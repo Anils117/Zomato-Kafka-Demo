@@ -1,6 +1,6 @@
 # Zomato-Kafka-Demo
 
-This is a Simple SpringBoot Application that Demonstrates the Usage of Apache Kafka with SpringBoot. Implemented Two Microservices as DeliveryBoy(Producer) and EndUser(Consumer). The Deliveryboy continuesly updates his location (produces location data to kafka server) and the enduser gets the updated location of deliveryboy (consumes location data from server).
+This is a Simple SpringBoot Application that Demonstrates the Usage of Apache Kafka with SpringBoot. Implemented Two Microservices as DeliveryBoy(Producer) and EndUser(Consumer). The Deliveryboy updates his location (produces location data to kafka server) and the enduser gets the updated location of deliveryboy (consumes location data from server).
 
 Dependencies- 
 * Spring Web - Rest Services
